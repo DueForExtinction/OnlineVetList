@@ -29,7 +29,7 @@ public class PetItem {
 	private String operation;
 	
 	public PetItem(){
-		super();
+		
 	}
 	
 	public PetItem(String name,String owner, String operation){
